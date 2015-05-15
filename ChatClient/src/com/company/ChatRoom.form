@@ -51,7 +51,9 @@
                 <preferred-size width="150" height="-1"/>
               </grid>
             </constraints>
-            <properties/>
+            <properties>
+              <dragEnabled value="true"/>
+            </properties>
           </component>
           <component id="71632" class="javax.swing.JButton" binding="btn_send">
             <constraints>
